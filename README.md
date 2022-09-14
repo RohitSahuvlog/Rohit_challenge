@@ -18,7 +18,7 @@
 <h3>Demo page: </h3>
 <img src="Screenshot (275).png" />
 <!-- <img src="Screenshot (275).png" /> -->
-<img src="Screenshot (275).png" />
+<img src="file:///C:/Users/sahu8/OneDrive/Pictures/Screenshots/Screenshot%20(279).png" />
 <img src="Screenshot (276).png" />
 
 <h1>View Deployment</h1>
