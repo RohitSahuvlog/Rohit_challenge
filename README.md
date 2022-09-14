@@ -18,13 +18,13 @@
 <h3>Demo page: </h3>
 <img src="Screenshot (275).png" />
 <!-- <img src="Screenshot (275).png" /> -->
-<img src="file:///C:/Users/sahu8/OneDrive/Pictures/Screenshots/Screenshot%20(279).png" />
+<img src="![Screenshot (279)](https://user-images.githubusercontent.com/96680038/190230858-1c576b45-0c56-43d7-a4a7-50f1b64a5cfb.png)" />
 <img src="Screenshot (276).png" />
 
 <h1>View Deployment</h1>
 </hr>
 <h4>Checkout live website :</h4>
-https://eclectic-zuccutto-b34cd1.netlify.app/signin
+https://eclectic-zuccutto-b34cd1.netlify.app
 
 </hr>
 <h1>Tech Stack </h1>
